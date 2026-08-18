@@ -13,3 +13,5 @@ langchain-qdrant
 pypdf
 qdrant-client
 sentence-transformers
+PyJWT
+python-jose
